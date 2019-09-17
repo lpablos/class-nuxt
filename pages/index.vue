@@ -26,7 +26,8 @@ export default {
     users:function(){               
       this.$router.push('users')
     }
-  }
+  },
+  layout:'default'
 }
 </script>
 
